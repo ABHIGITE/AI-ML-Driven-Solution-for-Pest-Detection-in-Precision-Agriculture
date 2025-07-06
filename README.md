@@ -1,14 +1,16 @@
 # AI-ML-Driven-Solution-for-Pest-Detection-in-Precision-Agriculture
 
-This project uses AI and machine learning algorithms to detect pests in crop images. It helps farmers find pest problems early to protect crops and improve yield. We collected and labeled pest images, trained a model using CNN (EfficientNetB0), and used XGBoost for better accuracy.
+This project uses AI and machine learning algorithms to detect pests in crop images. It helps farmers identify pest problems early to protect crops and increase yield. The model was trained using CNN (EfficientNetB0) and XGBoost for better accuracy. A simple GUI was built using Tkinter, and the project was developed and run using Spyder (Anaconda).
 
 
 🔧 Features:
 - Detects pests from crop images
 
-- Uses deep learning (CNN) and machine learning (XGBoost)
+- User-friendly GUI using Tkinter
 
-- Helps in early pest detection
+- Combines deep learning (CNN) and machine learning (XGBoost)
 
-- Improves crop health and productivity
+- Developed and tested using Spyder IDE
+
+- Helps in early pest detection and crop protection
 
